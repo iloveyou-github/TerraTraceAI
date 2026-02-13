@@ -27,7 +27,7 @@ Designed for simplicity and production readiness, the application only includes 
 ## Installation & Getting Started
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/terratrace-ai-command-center.git
+   git clone https://github.com/iloveyou-github/terratrace-ai-command-center.git
    cd terratrace-ai-command-center
    ```
 
